@@ -8,41 +8,47 @@
 
 ## 📌 Project Title
 
-> Replace this line with the full name of your assigned project
-> e.g. *Patient Records Management System*
+> BMI & Health Risk Calculator
 
----
 
 ## 👥 Team Name & Members
 
-**Team Name:** `Team Name`
+**Team Name:** `Visionaimedics`
 
 | Full Name | Task Carried Out |
-|-----------|-----------------|
-| e.g. Amina Yusuf | Built the Patient class and RecordsManager class |
-| e.g. Kwame Asante | Handled data loading and cleaning with Pandas |
-| e.g. Chidera Obi | Created all three visualisations using Matplotlib |
-| e.g. Fatima Al-Hassan | Wrote standalone functions and the main program loop |
-| e.g. Lena Mokoena | Wrote the README and assembled the PDF report |
+|-----------|-----------------|1. Gideon Ezekiel - gideonezekiel2017.com
+2. Oladeji David Adegboyega - oladejidavid12@gmail.com
+3. Glory Bagai - bagaiglory@gmail.com
+4. Agunbiade Simbiat Mogbonjubola- mogbonjubola1999@gmail.com
+5. Taiwo Yemisi - oluwayemisitaiwo62@gmail.com
+6. Edah Alake - alakedah777@gmail.com
+7. ⁠Ajanaku Opemipo - ajanakujeremiah@gmail.com                                                                                                                                                                                               8. Afolabi doyinsola - doyinsolalove@gmail.com
+9. Abayomi Abiodun - abiodunabayomi91@mail.com
+10. Godwin Udo - basseyudo86@gmail.com
+11. cojiako-hub, cojiako@unilag.edu.ng
+12. Abdullah Salaudeen - salaudeenabdu@gmail.com
+|  Gideon Ezekiel | Built the Patient class and RecordsManager class |
+| Oladeji David Adegboyega| Handled data loading and cleaning with Pandas |
+|⁠Ajanaku Opemipo | Created all three visualisations using Matplotlib |
+|Afolabi doyinsola | Wrote standalone functions and the main program loop |
+| Edah Alake| Wrote the README and assembled the PDF report |
 
 ---
 
 ## 📖 What This Project Does
 
-> Write 2–3 sentences here explaining:
-> - What your program does
-> - What real-world problem it addresses
-> - Who would use it in a health or clinical setting
+**BMI & Health Risk Calculator**
 
----
+This program calculates a user’s Body Mass Index (BMI) using their height and weight and classifies their health risk level based on standard medical guidelines. It helps identify individuals who may be underweight, overweight, or at risk of obesity-related conditions such as cardiovascular disease or diabetes. The tool can be used by healthcare professionals, fitness trainers, or patients in clinical and wellness settings for quick health assessment and monitoring.
+
 
 ## 🗂️ Repository Structure
 
 ```
 ├── data/
-│   └── dataset.csv        # Dataset provided for this project
+│   └── 07_patient_health.csv     # Dataset provided for this project
 ├── report/
-│   └── report.pdf                # One-page project report (push PDF here)
+│   └── Visionaimedics_report.pdf     # One-page project report (push PDF here)
 ├── main.py                       # Main program entry point (or main.ipynb)
 ├── README.md                     # This file
 └── requirements.txt              # List of Python libraries used
@@ -92,32 +98,45 @@ matplotlib
 seaborn
 ```
 
-> Add any additional libraries your team uses below these.
 
----
 
 ## 📊 Visualisations
 
-> Briefly describe the 3 charts your project produces:
->
-> 1. **Chart 1** — e.g. Bar chart showing diagnosis frequency across all patients
-> 2. **Chart 2** — e.g. Histogram showing age distribution of patients
-> 3. **Chart 3** — e.g. Pie chart showing gender breakdown
+> Description of the 3 charts in the project:
+> 1. **Chart 1** — This chart shows the **distribution of BMI values** in a population using a histogram with a smooth density curve. Most individuals fall within the **25–35 BMI range**, indicating a high proportion of overweight to moderately obese cases. The distribution is **right-skewed**, with fewer individuals at very high BMI values (above 40) and some lower values around 15–20.
+
+> 2. **Chart 2** — This bar chart shows the **distribution of patients across risk categories**. The majority of patients fall into the **Moderate risk group**, followed by a significant number in the **High risk category**, while only a small proportion are classified as **Low risk**. This suggests that most individuals in the dataset require monitoring or medical attention.
+
+> 3. **Chart 3** — This scatter plot shows the relationship between **age and BMI across different risk categories**. High-risk patients (green) generally have **higher BMI values across a wide age range**, while low-risk patients (blue) tend to cluster at **lower BMI levels**. Moderate-risk patients (red) are spread across the middle ranges, indicating that **BMI is a stronger indicator of risk than age alone**.
+
 
 ---
 
 ## 🧱 Classes & Functions
 
-> Briefly list the classes and standalone functions in your project:
->
-> **Classes:**
-> - `ClassName` — what it does
-> - `ClassName` — what it does
->
-> **Standalone Functions:**
-> - `function_name()` — what it does
-> - `function_name()` — what it does
-> - `function_name()` — what it does
+> The classes and standalone functions in the project:
+### **Classes:**
+
+* *No classes implemented* — The project is function-based and does not use object-oriented programming.
+
+---
+
+### **Standalone Functions:**
+
+* `convert_cm_to_mm()` — Converts tumor sizes from centimeters to millimeters.
+* `get_critical_tumors()` — Filters and returns tumor sizes above a critical threshold.
+* `classify_tumor()` — Classifies tumor size into risk categories (Critical, Monitor, Stable).
+* `patient_report()` — Generates a formatted report for a patient including tumor status.
+* `get_critical_patient_names()` — Extracts names of patients with critical tumors.
+* `array_statistics()` — Computes statistical measures (min, max, mean, std) from pixel data.
+* `normalize_pixels()` — Normalizes pixel intensity values to a 0–1 range.
+* `extract_roi()` — Extracts a region of interest (ROI) from an image array.
+* `calculate_snr()` — Computes Signal-to-Noise Ratio for image quality assessment.
+* `calculate_cnr()` — Computes Contrast-to-Noise Ratio between tissues.
+
+---
+
+
 
 ---
 
