@@ -16,13 +16,14 @@
 **Team Name:** `Visionaimedics`
 
 | Full Name | Task Carried Out |
-|-----------|-----------------|1. Gideon Ezekiel - gideonezekiel2017.com
+1. Gideon Ezekiel - gideonezekiel2017.com
 2. Oladeji David Adegboyega - oladejidavid12@gmail.com
 3. Glory Bagai - bagaiglory@gmail.com
 4. Agunbiade Simbiat Mogbonjubola- mogbonjubola1999@gmail.com
 5. Taiwo Yemisi - oluwayemisitaiwo62@gmail.com
 6. Edah Alake - alakedah777@gmail.com
-7. ⁠Ajanaku Opemipo - ajanakujeremiah@gmail.com                                                                                                                                                                                               8. Afolabi doyinsola - doyinsolalove@gmail.com
+7. ⁠Ajanaku Opemipo - ajanakujeremiah@gmail.com
+8. Afolabi doyinsola - doyinsolalove@gmail.com
 9. Abayomi Abiodun - abiodunabayomi91@mail.com
 10. Godwin Udo - basseyudo86@gmail.com
 11. cojiako-hub, cojiako@unilag.edu.ng
@@ -33,7 +34,7 @@
 |Afolabi doyinsola | Wrote standalone functions and the main program loop |
 | Edah Alake| Wrote the README and assembled the PDF report |
 
----
+
 
 ## 📖 What This Project Does
 
