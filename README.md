@@ -9,7 +9,7 @@
 **Team Name:** `Visionaimedics`
 
          Full Name 
-1. Gideon Ezekiel - gideonezekiel2017.com
+1. Gideon Ezekiel - gideonezekiel2017@gmail.com
 2. Oladeji David Adegboyega - oladejidavid12@gmail.com
 3. Glory Bagai - bagaiglory@gmail.com
 4. Agunbiade Simbiat Mogbonjubola- mogbonjubola1999@gmail.com
