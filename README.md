@@ -51,13 +51,16 @@ This program calculates a user’s Body Mass Index (BMI) using their height and 
 ```
 ├── data/
 │   └── 07_patient_health.csv     # Dataset provided for this project
-├── report/
-│   └── Visionaimedics_report.pdf     # One-page project report (push PDF here)
-├── main.py                       # Main program entry point (or main.ipynb)
-├── README.md                     # This file
+
+├── visionaimedics_mini_project/
+    └── 07_patient_health.csv
+    └── BMI & Health Risk Calculator.pdf # One-page project report (push PDF here)
+    └── ReadME.md # This file
+│   └── Visionaimedics.ipynb  # Main program entry point (or main.ipynb)
+                 
+├── README.md
 └── requirements.txt              # List of Python libraries used
 ```
-
 ---
 
 ## ⚙️ How to Run This Project
