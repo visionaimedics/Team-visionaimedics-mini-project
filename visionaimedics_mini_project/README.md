@@ -30,11 +30,11 @@
 12. Abdullah Salaudeen - salaudeenabdu@gmail.com
 
     Task assigned 
-  - Gideon Ezekiel | Built the Patient class and RecordsManager class 
-  -  Oladeji David Adegboyega| Handled data loading and cleaning with Pandas 
-  -  ⁠Ajanaku Opemipo | Created all three visualisations using Matplotlib 
-  - Afolabi doyinsola | Wrote standalone functions and the main program loop 
-  -  Edah Alake| Wrote the README and assembled the PDF report 
+  - Gideon Ezekiel - Built the Patient class and RecordsManager class 
+  -  Oladeji David Adegboyega - Handled data loading and cleaning with Pandas 
+  -  ⁠Ajanaku Opemipo - Created all three visualisations using Matplotlib 
+  - Afolabi Doyinsola - Wrote standalone functions and the main program loop 
+  -  Edah Alake - Wrote the README and assembled the PDF report 
 
 
 
