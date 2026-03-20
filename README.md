@@ -146,6 +146,6 @@ seaborn
 
 ## 📄 Report
 
-The one-page PDF report is located in the `report/` folder.
+The one-page PDF report is located in the `visionaimedics_mini_project/` folder.
 It covers: project overview, technical summary, challenges faced, and team contributions.
 
