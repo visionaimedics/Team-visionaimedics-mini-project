@@ -15,7 +15,7 @@
 
 **Team Name:** `Visionaimedics`
 
-| Full Name | Task Carried Out |
+         Full Name 
 1. Gideon Ezekiel - gideonezekiel2017.com
 2. Oladeji David Adegboyega - oladejidavid12@gmail.com
 3. Glory Bagai - bagaiglory@gmail.com
@@ -29,12 +29,20 @@
 11. cojiako-hub, cojiako@unilag.edu.ng
 12. Abdullah Salaudeen - salaudeenabdu@gmail.com
 
-    Task assigned 
+      Task Carried Out
   - Gideon Ezekiel - Built the Patient class and RecordsManager class 
   -  Oladeji David Adegboyega - Handled data loading and cleaning with Pandas 
-  -  ⁠Ajanaku Opemipo - Created all three visualisations using Matplotlib 
+  -  ⁠Ajanaku Opemipo - Created Histogram of BMI distribution using Matplotlib 
   - Afolabi Doyinsola - Wrote standalone functions and the main program loop 
-  -  Edah Alake - Wrote the README and assembled the PDF report 
+  -  Edah Alake - Wrote the README and assembled the PDF report
+  -  Glory Bagai - Plot the Bar chart of risk categories using seaborn
+  -  Agunbiade Simbiat Mogbonjubola- Created the assembled PDF report
+  -  Taiwo Yemisi - Created the Scatter plot of BMI vs Age
+  -  Abayomi Abiodun -Led the project by explaining some of the best approaches to solving the task
+  - Godwin Udo - Assisted in building the Patient class and RecordsManager class
+  -  cojiako-hub - Coordinate the team and the activities that enhance the success of the project 
+  -  Abdullah Salaudeen - Assisted in handling data loading and cleaning with Pandas
+
 
 
 
@@ -63,8 +71,8 @@ This program calculates a user’s Body Mass Index (BMI) using their height and 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/SPARK-Academy/Mini-Capstone-2026-Team-Name.git
-cd Mini-Capstone-2026-Team-Name
+git clone https://github.com/Team-visionaimedics-mini-project/visionaimedics_mini_project.git
+cd visionaimedics_mini_project
 ```
 
 ### 2. Install required libraries
