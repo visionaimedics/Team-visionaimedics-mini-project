@@ -17,7 +17,7 @@
 6. Edah Alake - alakedah777@gmail.com
 7. ⁠Ajanaku Opemipo - ajanakujeremiah@gmail.com
 8. Afolabi doyinsola - doyinsolalove@gmail.com
-9. Abayomi Abiodun - abiodunabayomi91g@mail.com
+9. Abayomi Abiodun - abiodunabayomi91@gmail.com
 10. Godwin Udo - basseyudo86@gmail.com
 11. cojiako-hub, cojiako@unilag.edu.ng
 12. Abdullah Salaudeen - salaudeenabdu@gmail.com
